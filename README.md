@@ -1,4 +1,13 @@
 # 🍽️ RecipeBot - AI Chef Assistant
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=flat-square&logo=google-colab)](https://colab.research.google.com/github/rakibnsajib/Recipebot/blob/main/RecipeBot_Demo.ipynb)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/rakibnsajib/Recipebot/ci.yml?branch=main&style=flat-square)](https://github.com/rakibnsajib/Recipebot/actions)
+[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue?style=flat-square)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Groq](https://img.shields.io/badge/Powered%20by-Groq%20AI-FF6B35?style=flat-square)](https://groq.com/)
+[![GitHub issues](https://img.shields.io/github/issues/rakibnsajib/Recipebot?style=flat-square)](https://github.com/rakibnsajib/Recipebot/issues)
+
 
 RecipeBot is an intelligent recipe generator that helps you create delicious recipes based on your available ingredients and dietary preferences. Using the power of AI through Groq's Llama model, it provides personalized recipe suggestions with detailed instructions.
 
